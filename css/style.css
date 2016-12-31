@@ -188,7 +188,7 @@ main {
 
 .fixed-content.about {
   height: 50%;
-  background-image: url('../images/12291193_1097839603562331_9002002733008019501_o.jpg');
+  background-image: linear-gradient(hsla(220, 70%, 70%, .5), hsla(260, 30%, 30%, .6)), url('../images/12291193_1097839603562331_9002002733008019501_o.jpg');
 }
 
 .fixed-content h1 {
